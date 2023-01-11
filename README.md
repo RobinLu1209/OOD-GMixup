@@ -17,6 +17,8 @@ The installation of libMR, please refer to this link: https://github.com/abhijit
 ## Datasets
 All the datasets are provided by [pytorch_geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html). 
 
+![Dataset Info](dataset_info.png "Dataset")
+
 ## Run the codes
 Train and evaluate the model:
 * `python main.py --dataset <dataset_name> --backbone <backbone> --pooling <pooling>`  
